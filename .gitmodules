@@ -4,3 +4,6 @@
 [submodule "capstone-ml"]
 	path = capstone-ml
 	url = https://github.com/arsyaninsa/capstone-ml.git
+[submodule "temantanam-md"]
+	path = temantanam-md
+	url = https://github.com/kevinxavierbangkit/temantanam-md
