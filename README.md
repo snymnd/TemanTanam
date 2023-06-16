@@ -32,6 +32,7 @@ TemanTanam is a mobile application designed to increase people's knowledge about
 - [Google Cloud Storage](https://cloud.google.com/storage) - A scalable object storage solution.
 
 ## Related Link
+- Mobile APK : [https://drive.google.com/drive/folders/1NlTrHcMXGwqGw4dw9u0Gz264-wtnQxAV?usp=sharing](https://drive.google.com/drive/folders/1NlTrHcMXGwqGw4dw9u0Gz264-wtnQxAV?usp=sharing)
 - Backend API: [https://backend-dot-my-temantanam-dev.et.r.appspot.com](https://backend-dot-my-temantanam-dev.et.r.appspot.com)
 - Backend API Documentation: [https://documenter.getpostman.com/view/21669206/2s93saatY9](https://documenter.getpostman.com/view/21669206/2s93saatY9)
 - ML Model API: [https://temantanam-model-nzc6yfaf5q-et.a.run.app/](https://temantanam-model-nzc6yfaf5q-et.a.run.app/)
