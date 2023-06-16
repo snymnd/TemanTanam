@@ -1,0 +1,3 @@
+[submodule "backend-temantanam"]
+	path = backend-temantanam
+	url = https://github.com/snymnd/backend-temantanam.git
