@@ -1,3 +1,6 @@
 [submodule "backend-temantanam"]
 	path = backend-temantanam
 	url = https://github.com/snymnd/backend-temantanam.git
+[submodule "capstone-ml"]
+	path = capstone-ml
+	url = https://github.com/arsyaninsa/capstone-ml.git
